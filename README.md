@@ -19,7 +19,7 @@ Diu's tools for side-projects.
 - Belkin 2-in-1 Wireless Charger
 - Elgato Stream Deck
 
-## Software
+## Software & Website
 
 ### Coding
 
@@ -32,6 +32,8 @@ Diu's tools for side-projects.
 - Figma
 - Procreate on iPad
 - Pinterest
+- [Icones](https://icones.netlify.app/)
+- [Color Hunt](https://colorhunt.co/)
 
 ### Streaming and Video Editing
 
