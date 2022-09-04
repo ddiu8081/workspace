@@ -23,7 +23,7 @@ Diu's tools for side-projects.
 
 ### Coding
 
-- Visual Studio Code - See also (ddiu8081/vscode-settings)[https://github.com/ddiu8081/vscode-settings]
+- Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
 - Warp
 - zsh
 
