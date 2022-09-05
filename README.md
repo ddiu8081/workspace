@@ -58,3 +58,8 @@ Diu's tools for side-projects.
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixels](https://klart.io/pixels)
 - [Creativerly](https://creativerly.com/)
+
+## Podcasts
+
+- Anyway.FM 设计杂谈
+- 音球・Intro
