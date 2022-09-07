@@ -25,7 +25,7 @@ Diu's tools for side-projects.
 
 - Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
 - Warp
-- zsh
+- fish shell
 
 ### Designing
 
