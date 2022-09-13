@@ -56,6 +56,8 @@ Diu's tools for side-projects.
 - [Anyway.News 安妮薇时报](https://anyway.fm/news/)
 - [Design Scenes Weekly](https://designscenes.zhubai.love/)
 - [DEX 周刊](https://dex.zhubai.love/)
+- [DecoHack](https://www.decohack.com/)
+- [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixels](https://klart.io/pixels)
 - [Creativerly](https://creativerly.com/)
