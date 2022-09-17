@@ -48,7 +48,7 @@ Diu's tools for side-projects.
 ### Entertainment
 
 - Spotify
-- NetEase Cloud Music - See also my [Coding BGM](https://ddiu.io/playlist)
+- NetEase Cloud Music - See also my [Coding BGM Playlist](https://ddiu.io/playlist)
 - Dtd Playlist
 
 ## Newsletters
