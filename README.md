@@ -10,7 +10,7 @@ Diu's tools for side-projects.
 - C-FORCE 15.6" 1080p Portable Monitor
 - Niz Micro84 EC-Bluetooth 35g Keyboard
 - Logitech MX Master 3
-- BOYA BY-PM500 USB Microphone
+- Rode PodMic
 - Nintendo Switch
 - HomePod Mini
 - Sony WH-1000XM3 Headphones
@@ -18,6 +18,7 @@ Diu's tools for side-projects.
 - Razer Kiyo Webcam
 - Belkin 2-in-1 Wireless Charger
 - Elgato Stream Deck
+- Elgato Wave XLR
 
 ## Software & Website
 
