@@ -58,6 +58,7 @@ Diu's tools for side-projects.
 - [Design Scenes Weekly](https://designscenes.zhubai.love/)
 - [DEX 周刊](https://dex.zhubai.love/)
 - [DecoHack](https://www.decohack.com/)
+- [Moonvy月维设计素材周刊](https://moonvy.zhubai.love/)
 - [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixels](https://klart.io/pixels)
