@@ -60,6 +60,7 @@ Diu's tools for side-projects.
 - [DecoHack](https://www.decohack.com/)
 - [Moonvy月维设计素材周刊](https://moonvy.zhubai.love/)
 - [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/)
+- [Re:Play Cafe](https://replay.cafe/)
 - [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixels](https://klart.io/pixels)
