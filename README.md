@@ -65,6 +65,7 @@ Diu's tools for side-projects.
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixels](https://klart.io/pixels)
 - [Creativerly](https://creativerly.com/)
+- [Marketing Examples](https://marketingexamples.com/)
 
 ## Podcasts
 
