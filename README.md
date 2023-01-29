@@ -9,6 +9,7 @@ Diu's tools for side-projects.
 - AOC 27" 4K Monitor
 - C-FORCE 15.6" 1080p Portable Monitor
 - Niz Micro84 EC-Bluetooth 35g Keyboard
+- NuPhy Halo65 KeyBoard
 - Logitech MX Master 3
 - Rode PodMic
 - Nintendo Switch
