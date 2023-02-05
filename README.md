@@ -15,7 +15,7 @@ Diu's tools for side-projects.
 - Nintendo Switch
 - HomePod Mini
 - Sony WH-1000XM3 Headphones
-- EDIFIER M30 Speaker
+- JBL PS2200 Speaker
 - Razer Kiyo Webcam
 - Belkin 2-in-1 Wireless Charger
 - Elgato Stream Deck
