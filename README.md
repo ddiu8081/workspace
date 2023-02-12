@@ -11,6 +11,7 @@ Diu's tools for side-projects.
 - Niz Micro84 EC-Bluetooth 35g Keyboard
 - NuPhy Halo65 KeyBoard
 - Logitech MX Master 3
+- Apple Magic Trackpad
 - Rode PodMic
 - Nintendo Switch
 - HomePod Mini
