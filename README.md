@@ -47,6 +47,9 @@ Diu's tools for side-projects.
 - Motion
 - Compressor
 - LumaFusion on iPad
+- CleanShot X
+- Screen Studio
+
 
 ### Entertainment
 
@@ -62,6 +65,7 @@ Diu's tools for side-projects.
 - [DecoHack](https://www.decohack.com/)
 - [Moonvy月维设计素材周刊](https://moonvy.zhubai.love/)
 - [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/)
+- [海上星光](https://hsxg.zhubai.love/)
 - [Re:Play Cafe](https://replay.cafe/)
 - [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
