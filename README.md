@@ -9,7 +9,7 @@ Diu's tools for side-projects.
 - AOC 27" 4K Monitor
 - C-FORCE 15.6" 1080p Portable Monitor
 - Niz Micro84 EC-Bluetooth 35g Keyboard
-- NuPhy Halo65 KeyBoard
+- NuPhy Halo65 KeyBoard (KTT Cabbage Tofu Switch, 白菜豆腐轴)
 - Logitech MX Master 3
 - Apple Magic Trackpad
 - Rode PodMic
