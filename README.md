@@ -67,6 +67,7 @@ Diu's tools for side-projects.
 - [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/)
 - [海上星光](https://hsxg.zhubai.love/)
 - [Re:Play Cafe](https://replay.cafe/)
+- [AIGC Weekly](https://quail.ink/op7418/)
 - [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixels](https://klart.io/pixels)
