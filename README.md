@@ -8,8 +8,8 @@ Diu's tools for side-projects.
 - iPad Pro (2020) + Apple Pencil
 - AOC 27" 4K Monitor
 - C-FORCE 15.6" 1080p Portable Monitor
-- Niz Micro84 EC-Bluetooth 35g Keyboard
 - NuPhy Halo65 KeyBoard (KTT Cabbage Tofu Switch, 白菜豆腐轴)
+- Niz Micro84 EC-Bluetooth 35g Keyboard
 - Logitech MX Master 3
 - Apple Magic Trackpad
 - Rode PodMic
@@ -17,8 +17,8 @@ Diu's tools for side-projects.
 - HomePod Mini
 - Sony WH-1000XM3 Headphones
 - JBL PS2200 Speaker
-- Razer Kiyo Webcam
 - Belkin 2-in-1 Wireless Charger
+- CANDYSIGN 120W Charging Station
 - Elgato Stream Deck
 - Elgato Wave XLR
 
@@ -46,15 +46,14 @@ Diu's tools for side-projects.
 - Final Cut Pro
 - Motion
 - Compressor
-- LumaFusion on iPad
 - CleanShot X
 - Screen Studio
-
 
 ### Entertainment
 
 - Spotify
 - NetEase Cloud Music - See also my [Coding BGM Playlist](https://ddiu.io/playlist)
+- Apple Music
 - Dtd Playlist
 
 ## Newsletters
@@ -62,10 +61,10 @@ Diu's tools for side-projects.
 - [Anyway.News 安妮薇时报](https://anyway.fm/news/)
 - [Design Scenes Weekly](https://designscenes.zhubai.love/)
 - [DEX 周刊](https://dex.zhubai.love/)
-- [DecoHack](https://www.decohack.com/)
 - [Moonvy月维设计素材周刊](https://moonvy.zhubai.love/)
 - [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/)
 - [海上星光](https://hsxg.zhubai.love/)
+- [潮流周刊](https://weekly.tw93.fun/)
 - [Re:Play Cafe](https://replay.cafe/)
 - [AIGC Weekly](https://quail.ink/op7418/)
 - [Sidebar](https://sidebar.io/)
@@ -77,4 +76,3 @@ Diu's tools for side-projects.
 ## Podcasts
 
 - Anyway.FM 设计杂谈
-- 音球・Intro
