@@ -4,29 +4,26 @@ Diu's tools for side-projects.
 
 ## Hardware: Things on my desk
 
-- Mac Mini M1 (16GB)
-- iPad Pro (2020) + Apple Pencil
+- Mac Mini M4
+- iPad Pro (2024) + Apple Pencil Pro
 - AOC 27" 4K Monitor
 - C-FORCE 15.6" 1080p Portable Monitor
 - NuPhy Halo65 KeyBoard (KTT Cabbage Tofu Switch, 白菜豆腐轴)
-- Niz Micro84 EC-Bluetooth 35g Keyboard
 - Logitech MX Master 3
-- Apple Magic Trackpad
 - Rode PodMic
-- Nintendo Switch
-- HomePod Mini
-- Sony WH-1000XM3 Headphones
 - JBL PS2200 Speaker
 - Belkin 2-in-1 Wireless Charger
 - CANDYSIGN 120W Charging Station
 - Elgato Stream Deck
 - Elgato Wave XLR
+- TourBox Lite
 
 ## Software & Website
 
 ### Coding
 
 - Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
+- Cursor
 - Warp + fish shell
 - Fork
 
@@ -35,23 +32,19 @@ Diu's tools for side-projects.
 - Figma
 - Procreate on iPad
 - Pinterest
-- [Icones](https://icones.netlify.app/)
-- [Color Hunt](https://colorhunt.co/)
 
 ### Streaming and Video Editing
 
 - OBS Studio
 - Keystroke Pro - Keypresses visualizer
 - Epidemic Sound - Music for videos
-- Final Cut Pro
-- Motion
+- Final Cut Pro on Mac & iPad
 - Compressor
 - CleanShot X
 - Screen Studio
 
 ### Entertainment
 
-- Spotify
 - NetEase Cloud Music - See also my [Coding BGM Playlist](https://ddiu.io/playlist)
 - Apple Music
 - Dtd Playlist
