@@ -22,8 +22,8 @@ Diu's tools for side-projects.
 
 ### Coding
 
-- Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
 - Cursor
+- Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
 - Warp + fish shell
 - Fork
 
@@ -31,7 +31,6 @@ Diu's tools for side-projects.
 
 - Figma
 - Procreate on iPad
-- Pinterest
 
 ### Streaming and Video Editing
 
@@ -39,7 +38,6 @@ Diu's tools for side-projects.
 - Keystroke Pro - Keypresses visualizer
 - Epidemic Sound - Music for videos
 - Final Cut Pro on Mac & iPad
-- Compressor
 - CleanShot X
 - Screen Studio
 
@@ -52,19 +50,23 @@ Diu's tools for side-projects.
 ## Newsletters
 
 - [Anyway.News 安妮薇时报](https://anyway.fm/news/)
-- [Design Scenes Weekly](https://designscenes.zhubai.love/)
-- [DEX 周刊](https://dex.zhubai.love/)
+- [Design Scenes Weekly](https://fenx.work/)
+- [DEX 周刊](https://quaily.com/dingyi)
 - [Moonvy月维设计素材周刊](https://moonvy.zhubai.love/)
 - [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/)
 - [海上星光](https://hsxg.zhubai.love/)
 - [潮流周刊](https://weekly.tw93.fun/)
-- [Re:Play Cafe](https://replay.cafe/)
+- [Design Engineer News](https://dingyi.beehiiv.com/)
 - [AIGC Weekly](https://quail.ink/op7418/)
+- [Re:Play Cafe](https://replay.cafe/)
 - [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
-- [Pixels](https://klart.io/pixels)
+- [Pixelfika](https://pixelfika.com/)
 - [Creativerly](https://creativerly.com/)
 - [Marketing Examples](https://marketingexamples.com/)
+- [HeyDesigner](https://heydesigner.com/)
+- [Web Designer News](https://webdesignernews.com/)
+- [News and Tools for Frontend Developers](https://frontenddogma.com/)
 
 ## Podcasts
 
