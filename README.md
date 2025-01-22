@@ -49,6 +49,8 @@ Diu's tools for side-projects.
 
 ## Newsletters
 
+### Chinese
+
 - [Anyway.News 安妮薇时报](https://anyway.fm/news/)
 - [Design Scenes Weekly](https://fenx.work/)
 - [DEX 周刊](https://quaily.com/dingyi)
@@ -60,6 +62,10 @@ Diu's tools for side-projects.
 - [Dine Digest](https://digest.dinehq.com/)
 - [猫鱼周刊](https://quaily.com/ameow)
 - [偷懒爱好者周刊](https://toolight.zhubai.love/)
+- [FAV0周刊](https://fav0.com/)
+
+### English
+  
 - [Sidebar](https://sidebar.io/)
 - [Workspaces](https://www.workspaces.xyz/)
 - [Pixelfika](https://pixelfika.com/)
