@@ -74,6 +74,7 @@ Diu's tools for side-projects.
 - [HeyDesigner](https://heydesigner.com/)
 - [Web Designer News](https://webdesignernews.com/)
 - [News and Tools for Frontend Developers](https://frontenddogma.com/)
+- [One Page Love](https://onepagelove.com/)
 
 ## Podcasts
 
