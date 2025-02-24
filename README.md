@@ -54,14 +54,14 @@ Diu's tools for side-projects.
 - [Anyway.News 安妮薇时报](https://anyway.fm/news/)
 - [Design Scenes Weekly](https://fenx.work/)
 - [DEX 周刊](https://quaily.com/dingyi)
-- [Moonvy月维设计素材周刊](https://moonvy.zhubai.love/)
-- [有趣产品咖啡馆](https://yunyingxiaowanzi.zhubai.love/)
+- Moonvy月维设计素材周刊
+- 有趣产品咖啡馆
 - [潮流周刊](https://weekly.tw93.fun/)
 - [Design Engineer News](https://dingyi.beehiiv.com/)
 - [AIGC Weekly](https://quail.ink/op7418/)
 - [Dine Digest](https://digest.dinehq.com/)
 - [猫鱼周刊](https://quaily.com/ameow)
-- [偷懒爱好者周刊](https://toolight.zhubai.love/)
+- 偷懒爱好者周刊
 - [FAV0周刊](https://fav0.com/)
 
 ### English
@@ -75,7 +75,3 @@ Diu's tools for side-projects.
 - [Web Designer News](https://webdesignernews.com/)
 - [News and Tools for Frontend Developers](https://frontenddogma.com/)
 - [One Page Love](https://onepagelove.com/)
-
-## Podcasts
-
-- Anyway.FM 设计杂谈
