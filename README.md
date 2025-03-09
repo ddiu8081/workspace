@@ -75,3 +75,4 @@ Diu's tools for side-projects.
 - [Web Designer News](https://webdesignernews.com/)
 - [News and Tools for Frontend Developers](https://frontenddogma.com/)
 - [One Page Love](https://onepagelove.com/)
+- [Headers Club](https://headers.club/)
