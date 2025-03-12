@@ -63,6 +63,7 @@ Diu's tools for side-projects.
 - [猫鱼周刊](https://quaily.com/ameow)
 - 偷懒爱好者周刊
 - [FAV0周刊](https://fav0.com/)
+- [UI Notes 周刊](https://uinotes.substack.com/)
 
 ### English
   
