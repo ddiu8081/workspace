@@ -60,7 +60,7 @@ Diu's tools for side-projects.
 - [AIGC Weekly](https://quail.ink/op7418/)
 - [Dine Digest](https://digest.dinehq.com/)
 - [猫鱼周刊](https://quaily.com/ameow)
-- 偷懒爱好者周刊
+- [偷懒爱好者周刊](https://echosoar.github.io/weekly/)
 - [FAV0周刊](https://fav0.com/)
 - [UI Notes 周刊](https://uinotes.substack.com/)
 
