@@ -54,8 +54,7 @@ Diu's tools for side-projects.
 - [Anyway.News 安妮薇时报](https://anyway.fm/news/)
 - [Design Scenes Weekly](https://fenx.work/)
 - [DEX 周刊](https://quaily.com/dingyi)
-- Moonvy月维设计素材周刊
-- 有趣产品咖啡馆
+- [Moonvy月维设计素材周刊](https://quaily.com/moonvy)
 - [潮流周刊](https://weekly.tw93.fun/)
 - [Design Engineer News](https://dingyi.beehiiv.com/)
 - [AIGC Weekly](https://quail.ink/op7418/)
