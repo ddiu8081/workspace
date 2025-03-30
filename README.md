@@ -77,3 +77,4 @@ Diu's tools for side-projects.
 - [One Page Love](https://onepagelove.com/)
 - [Headers Club](https://headers.club/)
 - [The Curious Engineer](https://www.alexhyett.com/newsletter/)
+- [This Week In React](https://thisweekinreact.com/newsletter)
