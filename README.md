@@ -63,6 +63,7 @@ Diu's tools for side-projects.
 - [偷懒爱好者周刊](https://echosoar.github.io/weekly/)
 - [FAV0周刊](https://fav0.com/)
 - [UI Notes 周刊](https://uinotes.substack.com/)
+- [DecoHack 周刊](https://decohack.com/category/decohack-weekly/)
 
 ### English
   
