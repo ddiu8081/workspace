@@ -79,3 +79,4 @@ Diu's tools for side-projects.
 - [Headers Club](https://headers.club/)
 - [The Curious Engineer](https://www.alexhyett.com/newsletter/)
 - [This Week In React](https://thisweekinreact.com/newsletter)
+- [Fresh Fonts](https://newsletter.freshfonts.io/)
