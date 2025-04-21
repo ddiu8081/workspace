@@ -80,3 +80,4 @@ Diu's tools for side-projects.
 - [The Curious Engineer](https://www.alexhyett.com/newsletter/)
 - [This Week In React](https://thisweekinreact.com/newsletter)
 - [Fresh Fonts](https://newsletter.freshfonts.io/)
+- [Lenny's Newsletter](https://www.lennysnewsletter.com/)
