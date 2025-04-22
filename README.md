@@ -81,3 +81,4 @@ Diu's tools for side-projects.
 - [This Week In React](https://thisweekinreact.com/newsletter)
 - [Fresh Fonts](https://newsletter.freshfonts.io/)
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/)
+- [The Collective](https://tympanus.net/codrops/collective/)
