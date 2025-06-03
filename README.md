@@ -11,7 +11,7 @@ Diu's tools for side-projects.
 - NuPhy Halo65 KeyBoard (KTT Cabbage Tofu Switch, 白菜豆腐轴)
 - Razer Pro Click Mini
 - Rode PodMic
-- JBL PS2200 Speaker
+- Audioengine A2+ Wireless
 - Belkin 2-in-1 Wireless Charger
 - CANDYSIGN 120W Charging Station
 - Elgato Stream Deck
