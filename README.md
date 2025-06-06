@@ -82,3 +82,4 @@ Diu's tools for side-projects.
 - [Fresh Fonts](https://newsletter.freshfonts.io/)
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 - [The Collective](https://tympanus.net/codrops/collective/)
+- [Late Night Designer](https://asekachov.substack.com/)
