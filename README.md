@@ -83,3 +83,4 @@ Diu's tools for side-projects.
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 - [The Collective](https://tympanus.net/codrops/collective/)
 - [Late Night Designer](https://asekachov.substack.com/)
+- [Next.js Weekly](https://nextjsweekly.com)
