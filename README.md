@@ -23,20 +23,17 @@ Diu's tools for side-projects.
 ### Coding
 
 - Cursor
-- Visual Studio Code - See also [ddiu8081/vscode-settings](https://github.com/ddiu8081/vscode-settings)
 - Warp + fish shell
 - Fork
 
 ### Designing
 
 - Figma
-- Procreate on iPad
 
 ### Streaming and Video Editing
 
 - OBS Studio
 - Keystroke Pro - Keypresses visualizer
-- Epidemic Sound - Music for videos
 - Final Cut Pro on Mac & iPad
 - CleanShot X
 - Screen Studio
