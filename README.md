@@ -60,7 +60,6 @@ Diu's tools for side-projects.
 - [偷懒爱好者周刊](https://echosoar.github.io/weekly/)
 - [FAV0周刊](https://fav0.com/)
 - [UI Notes 周刊](https://uinotes.substack.com/)
-- [DecoHack 周刊](https://decohack.com/category/decohack-weekly/)
 
 ### English
   
@@ -82,3 +81,4 @@ Diu's tools for side-projects.
 - [Late Night Designer](https://asekachov.substack.com/)
 - [Next.js Weekly](https://nextjsweekly.com)
 - [arun.is](https://arun.is)
+- [Self-Host Weekly](https://selfh.st/)
