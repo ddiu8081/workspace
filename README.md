@@ -9,7 +9,9 @@ Diu's tools for side-projects.
 - AOC 27" 4K Monitor
 - C-FORCE 15.6" 1080p Portable Monitor
 - NuPhy Halo65 KeyBoard (KTT Cabbage Tofu Switch, 白菜豆腐轴)
+- NuPhy Kick75 KeyBoard (Marshmallow R2, 棉花糖 R2 轴)
 - Razer Pro Click Mini
+- Magic Trackpad
 - Rode PodMic
 - Audioengine A2+ Wireless
 - Belkin 2-in-1 Wireless Charger
