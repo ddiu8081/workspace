@@ -22,9 +22,10 @@ Diu's tools for side-projects.
 
 ### Coding
 
-- Cursor
+- VSCode
 - Warp + fish shell
 - Fork
+- Claude Code
 
 ### Designing
 
